@@ -1,1 +1,1 @@
-# sirius-jUnit-exercises
+# sirius-JUnit-exercises
